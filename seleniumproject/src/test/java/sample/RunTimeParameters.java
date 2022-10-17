@@ -25,7 +25,7 @@ public class RunTimeParameters
 	else if( BROWSER.equalsIgnoreCase("edge"))
 	{
 		WebDriverManager.edgedriver().setup();
-		driver=new EdgeDriver();
+		driver=new EdgeDriver(); 
 	}
 	else
 	{
