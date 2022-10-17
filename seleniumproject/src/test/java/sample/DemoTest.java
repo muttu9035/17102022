@@ -8,5 +8,6 @@ public class DemoTest
 	public void method()
 	{
 		System.out.println("method running");
+		System.out.println("its done");
 	}
 }
